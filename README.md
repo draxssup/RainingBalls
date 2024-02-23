@@ -18,6 +18,3 @@ Make sure you have Python installed on your system. You can download Python from
 
 - [Python](https://www.python.org/) - The programming language used
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) - The GUI toolkit used
-
-## Author
-- draxssup
